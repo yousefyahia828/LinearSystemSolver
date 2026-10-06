@@ -94,11 +94,11 @@
             // 
             label2.AutoSize = true;
             label2.Font = new Font("Segoe UI", 16F, FontStyle.Bold);
-            label2.Location = new Point(176, 308);
+            label2.Location = new Point(145, 313);
             label2.Name = "label2";
-            label2.Size = new Size(269, 37);
+            label2.Size = new Size(337, 37);
             label2.TabIndex = 2;
-            label2.Text = "Mahmoud Mansour";
+            label2.Text = "Eng:  Mahmoud Mansour";
             label2.TextAlign = ContentAlignment.MiddleCenter;
             // 
             // SplashForm
