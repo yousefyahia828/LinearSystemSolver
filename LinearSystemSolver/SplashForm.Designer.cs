@@ -93,12 +93,12 @@
             // label2
             // 
             label2.AutoSize = true;
-            label2.Font = new Font("Segoe UI", 12F);
-            label2.Location = new Point(193, 316);
+            label2.Font = new Font("Segoe UI", 16F, FontStyle.Bold);
+            label2.Location = new Point(176, 308);
             label2.Name = "label2";
-            label2.Size = new Size(232, 56);
+            label2.Size = new Size(269, 37);
             label2.TabIndex = 2;
-            label2.Text = "© 2025 Eng. Yousef Yahia\r\nAll Rights Reserved\r\n";
+            label2.Text = "Mahmoud Mansour";
             label2.TextAlign = ContentAlignment.MiddleCenter;
             // 
             // SplashForm
